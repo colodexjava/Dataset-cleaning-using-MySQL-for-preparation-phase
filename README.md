@@ -37,6 +37,7 @@ This project depicts the steps taken in cleaning a dataset using MySQL Server. T
 Github-layoffs.cvs
 
 ## Tools
+MySQL Workbench
 
 ## Clinical Problem
 A global employment industry in charge of recruiting workers and ensuring proper welfare for employee has decided to look into the exodus of their clients from various countries across the world. They want to see if there is a pattern. However, this has been met with difficulty as the data is not analysable due to the unstandardized dataset
